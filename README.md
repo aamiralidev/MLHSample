@@ -19,3 +19,7 @@ This project was also developed as a freelancing project from a client that publ
 
 # Tech Used
 All the apps are developed in Python and the UI for 2 of the apps is developed using Tkinter
+
+
+## Tip
+If you are unable to find any sample input to run, you can go to the original repository from the link, that repository includes sample inputs. I have removed those sample from this repo to reduce the size
