@@ -12,10 +12,10 @@ This repository has been created for submitting code samples to MLH Fellow ship.
 This project was created to scrap resumes from the online resume builder as those builders also provide sample resumes in different categories. These resumes were scrapped for fine-tuning a large language model on resume generation.
 
 ### SwanSeaPrintingApp
-This project was created as a freelancing project from a B2B client which recieves dropshipping orders from online stores or sellers. It allows the owner to select a pdf file containing multiple orders, transform it into another pdf file containing pages to print outside the packeging of each order containing information about products inside and the deliver address including some postage labels and customs declaration for international deliveries. 
+This project was created as a freelancing project from a B2B client which receives drop-shipping orders from online stores or sellers. It allows the owner to select a pdf file containing multiple orders, transform it into another pdf file containing pages to print outside the packaging of each order containing information about products inside and the deliver address including some postage labels and customs declaration for international deliveries. 
 
 ### ComparetiveStatementApp
-This project was also developed as a freelancing project from a client that publishes tenders and recieves bids from multiple bidders in the form of excel files. It allows owner to select a list of excel files to aggregate against a particular tender. Then it applies some data preprocessing and transformations using pandas libaray and finally allows the owner to export it as either excel or pdf file. 
+This project was also developed as a freelancing project from a client that publishes tenders and receives bids from multiple bidders in the form of excel files. It allows owner to select a list of excel files to aggregate against a particular tender. Then it applies some data preprocessing and transformations using pandas libaray and finally allows the owner to export it as either excel or pdf file. 
 
 # Tech Used
 All the apps are developed in Python and the UI for 2 of the apps is developed using Tkinter
